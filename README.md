@@ -26,4 +26,4 @@ Features :-
     Video Link-
             
 
-    Hosted URL- 
+    Hosted URL-  https://saurabhpatel777.github.io/Meals-App/
